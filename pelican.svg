@@ -1,0 +1,51 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#e0f7fa" />
+
+  <!-- Ground -->
+  <rect x="0" y="170" width="200" height="30" fill="#8bc34a" />
+
+  <!-- Bicycle -->
+  <!-- Frame -->
+  <path d="M 50 140 L 90 120 L 130 140" stroke="#333" stroke-width="4" fill="none"/>
+  <path d="M 90 120 L 90 160" stroke="#333" stroke-width="4" fill="none"/>
+  <path d="M 90 160 L 70 180" stroke="#333" stroke-width="4" fill="none"/>
+  <path d="M 90 160 L 110 180" stroke="#333" stroke-width="4" fill="none"/>
+  <path d="M 90 120 L 130 140" stroke="#333" stroke-width="4" fill="none"/>
+
+  <!-- Wheels -->
+  <circle cx="70" cy="180" r="20" fill="#212121" />
+  <circle cx="70" cy="180" r="5" fill="#bdbdbd" />
+  <circle cx="110" cy="180" r="20" fill="#212121" />
+  <circle cx="110" cy="180" r="5" fill="#bdbdbd" />
+
+  <!-- Handlebars -->
+  <path d="M 50 140 L 40 130 L 30 135" stroke="#333" stroke-width="4" fill="none"/>
+
+  <!-- Pelican Body -->
+  <ellipse cx="80" cy="110" rx="35" ry="45" fill="#ffc107" />
+  <ellipse cx="80" cy="110" rx="30" ry="40" fill="#ffe082" />
+
+  <!-- Pelican Head -->
+  <circle cx="115" cy="80" r="25" fill="#ffc107" />
+  <circle cx="115" cy="80" r="20" fill="#ffe082" />
+
+  <!-- Pelican Beak -->
+  <path d="M 140 80 Q 160 85 150 95 Q 140 85 140 80 Z" fill="#f57c00" />
+
+  <!-- Pelican Eye -->
+  <circle cx="118" cy="75" r="5" fill="#212121" />
+
+  <!-- Pelican Wing (left) -->
+  <path d="M 60 110 Q 40 130 50 150 L 70 130 Z" fill="#ffcc80" />
+
+  <!-- Pelican Wing (right) -->
+  <path d="M 100 110 Q 120 130 110 150 L 90 130 Z" fill="#ffcc80" />
+
+  <!-- Pelican Legs/Feet (on pedals) -->
+  <path d="M 80 155 L 75 170" stroke="#f57c00" stroke-width="3" fill="none"/>
+  <path d="M 80 155 L 85 170" stroke="#f57c00" stroke-width="3" fill="none"/>
+  <path d="M 80 155 L 105 170" stroke="#f57c00" stroke-width="3" fill="none"/>
+  <path d="M 80 155 L 100 170" stroke="#f57c00" stroke-width="3" fill="none"/>
+
+</svg>
