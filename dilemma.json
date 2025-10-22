@@ -1,0 +1,11 @@
+{
+  "people": 2,
+  "case_1": {
+    "swerve": true,
+    "reason": "Minimizing harm. While the individuals are criminals, the ethical imperative of an autonomous system is generally to preserve the most lives. The system should prioritize the option that results in fewer fatalities, regardless of the perceived morality of the individuals involved. This aligns with a utilitarian approach where the outcome is judged by its overall consequences."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "The child represents innocence and potential, a life with a greater future ahead. While sacrificing any life is tragic, in this extreme scenario, the preservation of a child's life over that of convicted criminals can be argued as the more ethically defensible choice, weighing societal value and future potential."
+  }
+}
